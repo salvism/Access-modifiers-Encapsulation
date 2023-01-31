@@ -1,0 +1,14 @@
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework9\Classes\bin\Debug\netcoreapp3.1\Classes.exe
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework9\Classes\bin\Debug\netcoreapp3.1\Classes.deps.json
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework9\Classes\bin\Debug\netcoreapp3.1\Classes.runtimeconfig.json
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework9\Classes\bin\Debug\netcoreapp3.1\Classes.runtimeconfig.dev.json
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework9\Classes\bin\Debug\netcoreapp3.1\Classes.dll
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework9\Classes\bin\Debug\netcoreapp3.1\Classes.pdb
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework9\Classes\obj\Debug\netcoreapp3.1\Classes.csproj.AssemblyReference.cache
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework9\Classes\obj\Debug\netcoreapp3.1\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework9\Classes\obj\Debug\netcoreapp3.1\Classes.AssemblyInfoInputs.cache
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework9\Classes\obj\Debug\netcoreapp3.1\Classes.AssemblyInfo.cs
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework9\Classes\obj\Debug\netcoreapp3.1\Classes.csproj.CoreCompileInputs.cache
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework9\Classes\obj\Debug\netcoreapp3.1\Classes.dll
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework9\Classes\obj\Debug\netcoreapp3.1\Classes.pdb
+C:\Users\Manuela\Desktop\code academy\Homeworks\Homework9\Classes\obj\Debug\netcoreapp3.1\Classes.genruntimeconfig.cache
